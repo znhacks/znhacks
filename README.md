@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-banner-image-link.png" width="90%">
-</p>
-
 <h1 align="center">👋 Hello World, I'm Hydro!</h1>
 <p align="center">
   <b>Game Developer | Fullstack Learner | Tech Enthusiast</b>
