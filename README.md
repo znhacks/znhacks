@@ -6,8 +6,6 @@
 <p align="center">
   <b>Game Developer | Fullstack Learner | Tech Enthusiast</b>
   <br>
-  <a href="https://your-portfolio-link">🌐 Portfolio</a> |
-  <a href="mailto:your-email@gmail.com">📩 Email</a>
 </p>
 
 ---
