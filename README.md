@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello World, I'm Hydro!</h1>
+<h1 align="center">👋 Sup World, I'm Zn!</h1>
 <p align="center">
-  <b>Game Developer | Fullstack Learner | Tech Enthusiast</b>
+  <b>Game Dev | Fullstack Learner</b>
   <br>
 </p>
 
@@ -9,8 +9,7 @@
 ### 🧑‍💻 About Me
 - 🎮 Currently Developing: Story-based Games (Unity & Roblox)
 - ✨ Passionate about: World-building & Game Mechanics
-- 📚 Learning: Laravel, MySQL, JavaScript
-- ⭐ Contributing to Open-Source soon!
+- 📚 Status: Learning
 
 ---
 
