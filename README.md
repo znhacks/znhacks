@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Jxzero&fontSize=62&fontColor=ffffff&textBg=false&desc=Bug%20Hunter%20%7C%20Developer%20%7C%20Tech%20Explorer&descSize=18&descAlignY=80" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Jxzero&fontSize=65&fontColor=ffffff&textAlignY=38&desc=Bug%20Hunter%20%7C%20Developer%20%7C%20Tech%20Explorer&descSize=18&descAlignY=72" width="100%" />
 
   <br />
 
