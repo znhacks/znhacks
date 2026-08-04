@@ -1,9 +1,12 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Jxzero&fontSize=65&fontColor=ffffff&textAlignY=500&desc=Bug%20Hunter%20%7C%20Developer%20%7C%20Tech%20Explorer&descSize=18&descAlignY=72" width="100%" />
+  <!-- Header Banner (Nama Jxzero tepat di tengah area hitam) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Jxzero&fontSize=65&fontColor=ffffff" width="100%" />
 
-  <br />
+  <!-- Subtitle Deskripsi -->
+  <p align="center">
+    <b>Bug Hunter | Developer | Tech Explorer</b>
+  </p>
 
   <!-- Animasi Ngetik Quote -->
   <a href="https://git.io/typing-svg">
