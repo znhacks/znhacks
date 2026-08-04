@@ -17,7 +17,7 @@
   <!-- About Me -->
   <h2>💫 About Me</h2>
   <p>
-    🎀 Miko Alkan
+    🎀 Miko Alkan.<br>
     🐞 Bug hunter mindset, always trying to find and fix hidden issues.<br>
     💻 Coding while testing things directly to catch bugs faster.<br>
     🛠️ Prefer refining and cleaning logic instead of rushing results.<br>
