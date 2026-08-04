@@ -1,12 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner (Nama Jxzero tepat di tengah area hitam) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Jxzero&fontSize=65&fontColor=ffffff" width="100%" />
-
-  <!-- Subtitle Deskripsi -->
-  <p align="center">
-    <b>Bug Hunter | Developer | Tech Explorer</b>
-  </p>
+  <!-- Header Banner (Title & Subtitle digabung dalam 1 gambar) -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=150&section=header&text=Jxzero&fontSize=60&fontColor=ffffff&desc=Bug%20Hunter%20%7C%20Developer%20%7C%20Tech%20Explorer&descSize=16&descAlignY=70&descAlign=50" width="100%" />
 
   <!-- Animasi Ngetik Quote -->
   <a href="https://git.io/typing-svg">
