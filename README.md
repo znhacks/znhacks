@@ -14,6 +14,23 @@
 
   <br /><br />
 
+  <!-- Showcase Collage (Universal GitHub Compatible) -->
+  <p align="center">
+    <a href="https://github.com/znhacks/znhacks">
+      <img src="https://raw.githubusercontent.com/znhacks/znhacks/main/Screenshot%202026-08-03%20203236.png" width="30%" alt="Left Showcase" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/znhacks/znhacks">
+      <img src="https://raw.githubusercontent.com/znhacks/znhacks/main/2.png" width="34%" alt="Center Showcase" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/znhacks/znhacks">
+      <img src="https://raw.githubusercontent.com/znhacks/znhacks/main/Screenshot%202026-08-03%20203231.png" width="30%" alt="Right Showcase" />
+    </a>
+  </p>
+
+  <br /><br />
+
   <!-- About Me -->
   <h2>💫 About Me</h2>
   <p>
@@ -28,7 +45,7 @@
 
   <br />
 
-<!-- Tech Stack -->
+  <!-- Tech Stack -->
   <h2>💻 Tech Stack</h2>
 
   <h3>Languages</h3>
@@ -73,5 +90,3 @@
   </p>
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
