@@ -28,19 +28,6 @@
 
   <br />
 
-  <!-- Socials -->
-  <h2>🌐 Socials</h2>
-  <p>
-    <a href="https://instagram.com/mind0fzey">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/ordi-kurniawan-2869193bb">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-    </a>
-  </p>
-
-  <br />
-
 <!-- Tech Stack -->
   <h2>💻 Tech Stack</h2>
 
