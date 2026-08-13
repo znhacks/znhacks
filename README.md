@@ -33,6 +33,11 @@
 
   <!-- About Me -->
   <h2>💫 About Me</h2>
+
+  <a href="https://jordevs.vercel.app/">
+    <h2>Who is this?</h2>
+  </a>
+  
   <p>
     🎀 Miko Alkan.<br>
     🐞 Bug hunter mindset, always trying to find and fix hidden issues.<br>
