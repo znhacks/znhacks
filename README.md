@@ -35,7 +35,7 @@
   <h2>💫 About Me</h2>
 
   <a href="https://jordevs.vercel.app/">
-    <h2>Who is this?</h2>
+    <p>Who is this?</p>
   </a>
   
   <p>
