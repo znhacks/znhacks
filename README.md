@@ -72,6 +72,7 @@
 
   <h3>Game Development & 3D Design</h3>
   <p>
+    <img src="https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white" />
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
     <img src="https://img.shields.io/badge/Roblox_Studio-%2300A2FF.svg?style=for-the-badge&logo=roblox&logoColor=white" />
     <img src="https://img.shields.io/badge/Ren'Py-FF6000?style=for-the-badge&logo=python&logoColor=white" />
