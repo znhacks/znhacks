@@ -285,7 +285,4 @@
     <img src="https://streak-stats.demolab.com/?user=znhacks&theme=dark&hide_border=false" /><br/><br/>
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=znhacks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </p>
-
 </div>
-
-```
